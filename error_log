@@ -1,0 +1,58 @@
+[09-Jun-2020 17:11:19 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home3/shasthokontho/soar.shasthokontho.com/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[09-Jun-2020 17:11:20 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home3/shasthokontho/soar.shasthokontho.com/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[03-Aug-2020 12:49:05 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:05 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:13 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:13 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:14 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:14 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:15 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:15 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:17 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:17 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:19 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:19 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:21 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:21 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:22 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:22 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:24 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:24 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:25 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:25 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:27 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:27 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:29 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:29 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:49:31 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:49:31 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:51:26 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:51:26 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:54:48 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:54:48 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:55:16 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:55:16 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:56:07 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:56:07 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:56:20 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:56:20 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:56:37 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:56:37 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:58:01 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:58:01 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:58:06 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:58:06 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 12:59:20 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 12:59:20 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 13:02:59 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 13:02:59 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 13:11:53 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 13:11:53 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 13:16:37 America/Boise] PHP Warning:  require_once(/laravel/vendor/autoload.php): failed to open stream: No such file or directory in /home4/mkumhsmy/public_html/index.php on line 21
+[03-Aug-2020 13:16:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/laravel/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home4/mkumhsmy/public_html/index.php on line 21
+[03-Aug-2020 13:16:47 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 13:16:47 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 13:16:55 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 13:16:55 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
+[03-Aug-2020 13:17:52 America/Boise] PHP Warning:  Unsupported declare 'strict_types' in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 14
+[03-Aug-2020 13:17:52 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home4/mkumhsmy/public_html/vendor/ramsey/uuid/src/functions.php on line 34
